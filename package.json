@@ -1,0 +1,11 @@
+{
+  "name": "ngcdv",
+  "version": "0.0.1",
+  "description": "Convert a angular application to a cordova mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Jordan Ferreira",
+  "license": "MIT"
+}
